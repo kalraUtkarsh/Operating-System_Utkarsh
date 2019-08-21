@@ -1,0 +1,32 @@
+    1  whoami
+    2  hostname
+    3  man whoami
+    4  man man
+    5  mkdir <week1>
+    6  mkdir~/week1
+    7  mkdir<week1>
+    8  mkdir week1
+    9  mkdir~/week1
+   10  mkdir[week1]
+   11  mkdir<week1>;
+   12  mkdir week1
+   13  pwd
+   14  ls
+   15  cd week1/
+   16  ls
+   17  ls usr/bin
+   18  ls/usr/bin | sort-r > ex1.txt
+   19  ls/usr/bin | sort -r > ex1.txt
+   20  ls /usr/bin | sort -r > ex1.txt
+   21  head ex1.txt 
+   22  cat ex1.txt 
+   23  ls /usr/bin/*gcc* | sort -r > ex1.txt
+   24  cd /usr/bin/
+   25  ls
+   26  ls *gcc*
+   27  man gcc
+   28  ls *gcc*
+   29  history > ex2.txt
+   30  cd week1
+   31  cd ~/week1/
+   32  history > ex2.txt
